@@ -1,12 +1,18 @@
 ---
-title: Runjian Chen (陈润健)
+title: Runjian Chen \n 陈润健
 role: PhD Student
-avatar_filename: c20201102000050-陈润健-12.9报道-电子工卡照片.png
+avatar_filename: ""
+bio: Towards the Way Human Understand the World
 interests:
   - Representation Learning
   - Autonomous Driving
   - Long-horizon Manipulation
 social:
+  - display:
+      header: false
+    icon_pack: fas
+    icon: envelope
+    link: mailto:rjchen@connect.hku.hk
   - display:
       header: true
     icon_pack: ai
@@ -14,19 +20,14 @@ social:
     icon: google-scholar
   - display:
       header: false
-    icon_pack: ai
-    icon: cv
-    link: https://github.com/Runjian-Chen/Runjian-Chen.github.io/blob/main/attaches/CV.pdf
-  - display:
-      header: false
-    icon_pack: fas
-    icon: envelope
-    link: mailto:rjchen@connect.hku.hk
-  - display:
-      header: false
     icon_pack: fab
     icon: github
     link: https://github.com/Runjian-Chen
+  - display:
+      header: false
+    icon_pack: ai
+    icon: cv
+    link: https://github.com/Runjian-Chen/Runjian-Chen.github.io/blob/main/attaches/CV.pdf
 organizations:
   - name: The University of Hong Kong
 education:
