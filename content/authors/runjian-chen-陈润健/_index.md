@@ -3,7 +3,9 @@ title: Runjian Chen (陈润健)
 role: PhD Student
 avatar_filename: c20201102000050-陈润健-12.9报道-电子工卡照片.png
 interests:
-  - Unsupervised_Representaion_Learning;
+  - Unsupervised Representation Learning
+  - Autonomous Driving
+  - Long-horizon Manipulation
 social:
   - display:
       header: true
