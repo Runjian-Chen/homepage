@@ -1,5 +1,5 @@
 ---
-title: Runjian Chen \n 陈润健
+title: Runjian Chen 陈润健
 role: PhD Student
 avatar_filename: ""
 bio: Towards the Way Human Understand the World
