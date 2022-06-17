@@ -1,10 +1,10 @@
 ---
 widget: portfolio
 widget_id: Projects
-headless: true
 weight: 65
 title: Projects
 subtitle: ""
+active: true
 content:
   page_type: project
   filter_default: 0
@@ -15,6 +15,7 @@ content:
       tag: Deep Learning
     - name: Other
       tag: Demo
+headless: true
 design:
   columns: "2"
   view: 2
