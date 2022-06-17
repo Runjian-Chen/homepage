@@ -24,7 +24,7 @@ social:
     link: mailto:rjchen@connect.hku.hk
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fas
     icon: GitHub
     link: https://github.com/Runjian-Chen
 organizations:
