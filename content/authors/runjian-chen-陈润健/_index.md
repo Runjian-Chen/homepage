@@ -2,7 +2,8 @@
 title: Runjian Chen (陈润健)
 role: PhD Student
 avatar_filename: c20201102000050-陈润健-12.9报道-电子工卡照片.png
-interests: []
+interests:
+  - Unsupervised_Representaion_Learning;
 social:
   - display:
       header: true
