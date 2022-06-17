@@ -18,7 +18,7 @@ education:
   courses:
     - institution: Zhejiang University
       year: 2016
-      course: BE in Control Science and Engineering
+      course: BE in Automation
     - course: PhD in Computer Science
       institution: The University of Hong Kong
       year: 2021
