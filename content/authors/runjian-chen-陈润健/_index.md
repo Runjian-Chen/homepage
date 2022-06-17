@@ -19,13 +19,13 @@ social:
     link: https://github.com/Runjian-Chen/Runjian-Chen.github.io/blob/main/attaches/CV.pdf
   - display:
       header: false
-    icon_pack: fab
-    icon: envelop
+    icon_pack: fa
+    icon: fa-envelope
     link: mailto:rjchen@connect.hku.hk
   - display:
       header: false
     icon_pack: fab
-    icon: gitHub
+    icon: fa-gitHub
     link: https://github.com/Runjian-Chen
 organizations:
   - name: The University of Hong Kong
