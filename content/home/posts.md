@@ -8,7 +8,7 @@ active: true
 content:
   filters:
     folders:
-      - post
+      - news
     tag: ""
     category: ""
     publication_type: ""
