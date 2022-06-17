@@ -19,7 +19,7 @@ social:
     link: https://github.com/Runjian-Chen/Runjian-Chen.github.io/blob/main/attaches/CV.pdf
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: fab
     icon: fa-envelope
     link: mailto:rjchen@connect.hku.hk
   - display:
