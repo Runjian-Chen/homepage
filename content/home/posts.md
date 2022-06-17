@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: blank
 widget_id: News
 weight: 50
 title: News
