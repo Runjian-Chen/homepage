@@ -25,7 +25,7 @@ social:
   - display:
       header: false
     icon_pack: fab
-    icon: fa-gitHub
+    icon: fa-github
     link: https://github.com/Runjian-Chen
 organizations:
   - name: The University of Hong Kong
