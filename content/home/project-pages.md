@@ -6,7 +6,7 @@ title: Project Pages
 subtitle: ""
 active: true
 content:
-  page_type: publication
+  page_type: project-pages
   count: 0
   filters:
     author: ""
