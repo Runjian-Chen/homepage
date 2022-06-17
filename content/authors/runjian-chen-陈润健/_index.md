@@ -18,7 +18,7 @@ education:
   courses:
     - institution: Zhejiang University
       year: 2016
-      course: BE in Control Science and Engineering (Chu Kochen Honor College)
+      course: BE in Control Science and Engineering
     - course: PhD in Computer Science
       institution: The University of Hong Kong
       year: 2021
