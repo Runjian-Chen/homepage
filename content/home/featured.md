@@ -1,7 +1,7 @@
 ---
 widget: featured
 widget_id: Project Pages
-weight: 80
+weight: 65
 title: Project Pages
 subtitle: ""
 active: true
