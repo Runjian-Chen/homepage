@@ -20,7 +20,7 @@ social:
   - display:
       header: false
     icon_pack: ai
-    icon: envelop
+    icon: moodle
     link: mailto:rjchen@connect.hku.hk
   - display:
       header: false
