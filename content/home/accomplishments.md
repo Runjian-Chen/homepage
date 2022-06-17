@@ -1,5 +1,11 @@
 ---
 widget: accomplishments
+widget_id: "accomplishments "
+headless: true
+weight: 50
+title: Accomplish&shy;ments
+subtitle: null
+active: true
 date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
@@ -26,11 +32,6 @@ item:
     organization_url: https://www.datacamp.com
     title: Object-Oriented Programming in R
     url: ""
-widget_id: accomplishments
-headless: true
-weight: 50
-title: Accomplish&shy;ments
-subtitle: null
 design:
   columns: "2"
 ---
