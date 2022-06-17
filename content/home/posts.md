@@ -1,7 +1,7 @@
 ---
 widget: pages
 widget_id: News
-weight: 60
+weight: 50
 title: News
 subtitle: null
 active: true
