@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: Runjian Chen (陈润健)
+widget_id: runjian-chen-陈润健
 headless: true
 weight: 20
 title: Biography
