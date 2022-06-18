@@ -20,8 +20,8 @@ name = "My_minimal"
   # primary = "#bbdefb"
   primary = "#1565c0"
   
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  #link = "#bbdefb"
+  #link_hover = "#bbdefb"
   
   # Menu
   menu_primary = "#fff"
