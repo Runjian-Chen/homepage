@@ -6,19 +6,19 @@
 main:
   - name: Home
     url: '#about'
-    weight: 20
+    weight: 10
   - name: News
     url: '#news'
     weight: 20
   - name: Project Pages
     url: '#projectpage'
-    weight: 50
+    weight: 30
   - name: Publications
     url: '#publications'
     weight: 50
   - name: Awards
     url: '#awards'
-    weight: 20
+    weight: 70
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
