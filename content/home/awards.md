@@ -2,6 +2,7 @@
 widget: blank
 widget_id: awards
 weight: 80
+title: Awards
 active: true
 ---
 
