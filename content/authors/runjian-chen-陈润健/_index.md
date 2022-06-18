@@ -4,7 +4,7 @@ role: PhD Student
 avatar_filename: ""
 bio: Towards the Way Human Understand the World
 interests:
-  - Representation Learning
+  - Unsupervised Representation Learning
   - Autonomous Driving
   - Long-horizon Manipulation Learning
 social:
