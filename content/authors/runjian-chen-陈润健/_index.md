@@ -42,4 +42,6 @@ education:
 email: ""
 superuser: true
 ---
-I am now a first-year PhD student at the University of Hong Kong, supervised by Prof. [Ping Luo](http://luoping.me) and co-advised by Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and [Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml). Previously, I received my bachelor's degree in Automation at Zhejiang Univerisity with an honor degree for the Mixed Class at Chu Kochen Honor College in July, 2020. My research interests lie in representation learning and its downstream applications in vision and robotics problems.
+I am now a first-year PhD student at the University of Hong Kong, fortunately supervised by Prof. [Ping Luo](http://luoping.me) and co-advised by Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and [Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml). I also work closely with Dr. [Chuang Gan](https://people.csail.mit.edu/ganchuang/) and my friend [Yao Mu](https://yaomarkmu.github.io) and [Mingyu Ding](https://dingmyu.github.io). My current research focus is on unsupervised representation learning and its application to vision problems in autonomous driving  and robotics applications.
+
+Previously, I received my bachelor's degree in Automation at Zhejiang Univerisity with an honor degree for the Mixed Class at Chu Kochen Honor College in July, 2020. I am lucky to work under the supervision of Prof. [Rong Xiong](https://person.zju.edu.cn/en/rongxiong) and [Yue Wang](https://ywang-zju.github.io) at ZJU.
