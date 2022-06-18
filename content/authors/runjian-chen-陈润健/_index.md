@@ -30,6 +30,7 @@ social:
     link: https://github.com/Runjian-Chen/Runjian-Chen.github.io/blob/main/attaches/CV.pdf
 organizations:
   - name: The University of Hong Kong
+    url: https://www.cs.hku.hk
 education:
   courses:
     - institution: Zhejiang University
