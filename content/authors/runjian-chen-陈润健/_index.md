@@ -40,6 +40,6 @@ education:
       institution: The University of Hong Kong
       year: 2021
 email: ""
-superuser: false
+superuser: true
 ---
 I am now a first-year PhD student at the University of Hong Kong, supervised by Prof. [Ping Luo](http://luoping.me) and co-advised by Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and [Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml). Previously, I received my bachelor's degree in Automation at Zhejiang Univerisity with an honor degree for the Mixed Class at Chu Kochen Honor College in July, 2020. My research interests lie in representation learning and its downstream applications in vision and robotics problems.
