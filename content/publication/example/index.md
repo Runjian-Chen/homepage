@@ -53,7 +53,7 @@ url_source: ""
 url_video: ""
 publication: ""
 featured: true
-date: 2022-06-18T14:10:43.379Z
+date: 2022-06-19T14:57:51.559Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
