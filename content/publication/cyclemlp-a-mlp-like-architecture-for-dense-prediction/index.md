@@ -1,0 +1,37 @@
+---
+title: "CycleMLP: A MLP-like Architecture for Dense Prediction"
+publication_types:
+  - "1"
+authors:
+  - Shoufa Chen
+  - Enze Xie
+  - Chongjian GE
+  - "**Runjian Chen**"
+  - Ding Liang
+  - Ping Luo
+publication: The 10th International Conference on Learning Representations (Oral
+  Presentation, 1.6% acceptance rate)
+abstract: This paper presents a simple MLP-like architecture, CycleMLP, which is
+  a versatile backbone for visual recognition and dense predictions. As compared
+  to modern MLP architectures, e.g. , MLP-Mixer, ResMLP, and gMLP, whose
+  architectures are correlated to image size and thus are infeasible in object
+  detection and segmentation, CycleMLP has two advantages compared to modern
+  approaches. (1) It can cope with various image sizes. (2) It achieves linear
+  computational complexity to image size by using local windows. In contrast,
+  previous MLPs have O(N^2) computations due to fully spatial connections. We
+  build a family of models which surpass existing MLPs and even state-of-the-art
+  Transformer-based models, e.g. Swin Transformer, while using fewer parameters
+  and FLOPs. We expand the MLP-like models’ applicability, making them a
+  versatile backbone for dense prediction tasks. CycleMLP achieves competitive
+  results on object detection, instance segmentation, and semantic segmentation.
+  In particular, CycleMLP-Tiny outperforms Swin-Tiny by 1.3% mIoU on ADE20K
+  dataset with fewer FLOPs. Moreover, CycleMLP also shows excellent zero-shot
+  robustness on ImageNet-C dataset.
+draft: false
+featured: true
+image:
+  filename: featured.png
+  focal_point: Smart
+  preview_only: false
+date: 2022-06-19T14:50:19.121Z
+---
