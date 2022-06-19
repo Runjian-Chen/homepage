@@ -14,7 +14,7 @@ publication: Proceedings of the 39 th International Conference on Machine Learni
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2022-06-19T14:55:32.383Z
