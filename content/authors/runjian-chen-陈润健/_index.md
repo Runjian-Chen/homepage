@@ -30,7 +30,7 @@ social:
     link: https://github.com/Runjian-Chen/Runjian-Chen.github.io/blob/main/attaches/CV.pdf
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: fab
     icon: zhihu
     link: https://www.zhihu.com/people/chenrj-68
 organizations:
