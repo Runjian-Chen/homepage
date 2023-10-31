@@ -4,7 +4,7 @@ widget_id: Project Pages
 weight: 65
 title: Project Pages
 subtitle: ""
-active: true
+active: false
 content:
   page_type: project-pages
   count: 0
