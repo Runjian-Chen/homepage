@@ -12,10 +12,10 @@ main:
     weight: 20
  - name: Publications
    url: '#publications'
-   weight: 40
+   weight: 30
   - name: Awards
     url: '#awards'
-    weight: 60
+    weight: 40
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
