@@ -39,14 +39,14 @@ organizations:
 education:
   courses:
     - institution: Zhejiang University
-      year: 2016
+      year: 2016-2020
       course: BE in Automation
     - course: PhD in Computer Science
       institution: The University of Hong Kong
-      year: 2021
+      year: 2021-now
 email: ""
 superuser: true
 ---
-I am now a second-year PhD student at the University of Hong Kong, fortunately supervised by Prof. [Ping Luo](http://luoping.me) and co-advised by Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and [Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml). I also work closely with Dr. [Wenqi Shao](https://wqshao126.github.io/). My current research focus is on unsupervised representation learning and its application in autonomous driving.
+I am now a second-year PhD student at the University of Hong Kong, fortunately supervised by Prof. [Ping Luo](http://luoping.me) and co-advised by Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and [Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml). I also work closely with Dr. [Wenqi Shao](https://wqshao126.github.io/) and Dr. [Bo Zhang](https://bobrown.github.io/boZhang.github.io/). My current research focus is on unsupervised representation learning and its application in autonomous driving.
 
 Previously, I received my bachelor's degree in Automation at Zhejiang Univerisity with an honor degree for the Mixed Class at Chu Kochen Honor College in July, 2020. I am lucky to work under the supervision of Prof. [Rong Xiong](https://person.zju.edu.cn/en/rongxiong) and [Yue Wang](https://ywang-zju.github.io) at ZJU.
