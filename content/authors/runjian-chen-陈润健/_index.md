@@ -39,11 +39,11 @@ organizations:
 education:
   courses:
     - institution: Zhejiang University
-      year: 2016-2020
+      year: 2016--2020
       course: BE in Automation
     - course: PhD in Computer Science
       institution: The University of Hong Kong
-      year: 2021-now
+      year: 2021--now
 email: ""
 superuser: true
 ---
