@@ -24,6 +24,7 @@ design:
   view: compact
   columns: "2"
 ---
+* [<font color=Red>Top</font>] We are looking for self-motivated students to collaborate on unsupervised 3D scene understanding for autonomous driving and embodied AI (potentially with financial support). Drop me an email if you are interested.
 * 2023-07-29: An extended version of CycleMLP is accepted in T-PAMI (Transactions on Pattern Analysis and Machine Intelligence). Congrats on [Shoufa](https://www.shoufachen.com)! [[<font color=Coral>paper</font>](https://arxiv.org/pdf/2107.10224.pdf)] [[<font color=Coral>code</font>](https://github.com/ShoufaChen/CycleMLP)]
 * 2023-01-21: Our work CO^3 on unsupervised 3D representation learning for LiDAR point clouds is accepted in ICLR 2023. Paper is available [<font color=Coral>here</font>](https://openreview.net/forum?id=QUaDoIdgo0) and code is also [<font color=Coral>released</font>](https://github.com/Runjian-Chen/CO3).
 * 2023-01-17: Our work "Failure-Aware Policy Learning for Self-Assessable Robotics Tasks" is accepted in ICRA 2023. Congrats on [Kechun](https://xukechun.github.io/)! [[<font color=Coral>paper</font>](https://arxiv.org/abs/2302.13024)]
