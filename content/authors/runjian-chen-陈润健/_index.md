@@ -44,7 +44,7 @@ education:
     - course: PhD in Computer Science
       institution: University of Hong Kong
       year: 2021--now
-    - course: Visiting Student at Yale Vision Laboratory
+    - course: Visiting Student
       institution: Yale University
       year: 2024--now
 email: ""
