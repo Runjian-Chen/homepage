@@ -36,6 +36,8 @@ social:
 organizations:
   - name: University of Hong Kong
     url: https://www.cs.hku.hk
+  - name: Yale University
+    url: https://vision.cs.yale.edu/
 education:
   courses:
     - institution: Zhejiang University
