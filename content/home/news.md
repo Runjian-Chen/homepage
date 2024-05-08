@@ -25,6 +25,7 @@ design:
   columns: "2"
 ---
 * [<font color=Red>Top</font>] We are looking for self-motivated students to collaborate on unsupervised 3D scene understanding for autonomous driving and embodied AI (potentially with financial support). Drop me an email if you are interested.
+* 2024-05-01: 3 papers accepted by ICML 2024. [MMT-Bench](https://arxiv.org/pdf/2404.16006) from [Wenqi](https://wqshao126.github.io/), [Implicit Prompt](https://arxiv.org/abs/2403.02118) from Yue and [RoboCodeX](https://arxiv.org/pdf/2402.16117) from [Yao](https://yaomarkmu.github.io). Congrats!
 * 2024-03-18: Our work CurriculumLoc on place recognition for remote sensing is accepted in TGRS. Congrats on Boni! [[<font color=Coral>paper</font>](https://arxiv.org/pdf/2311.11604.pdf)] [[<font color=Coral>code</font>](https://github.com/npupilab/CurriculumLoc)]
 * 2024-01-07: Join [Yale Vision Laboratory](https://vision.cs.yale.edu/) as a visiting student.
 * 2023-07-29: An extended version of CycleMLP is accepted in T-PAMI. Congrats on [Shoufa](https://www.shoufachen.com)! [[<font color=Coral>paper</font>](https://arxiv.org/pdf/2107.10224.pdf)] [[<font color=Coral>code</font>](https://github.com/ShoufaChen/CycleMLP)]
