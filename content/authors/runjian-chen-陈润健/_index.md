@@ -28,11 +28,11 @@ social:
     icon_pack: ai
     icon: cv
     link: https://github.com/Runjian-Chen/Runjian-Chen.github.io/blob/main/attaches/CV.pdf
-  - display:
-      header: false
-    icon_pack: fab
-    icon: zhihu
-    link: https://www.zhihu.com/people/chenrj-68
+  #- display:
+  #    header: false
+  #  icon_pack: fab
+  #  icon: zhihu
+  #  link: https://www.zhihu.com/people/chenrj-68
 organizations:
   - name: University of Hong Kong
     url: https://www.cs.hku.hk
