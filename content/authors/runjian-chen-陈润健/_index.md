@@ -46,7 +46,7 @@ education:
       year: 2021--now
     - course: Visiting Student
       institution: Yale University
-      year: 2024--now
+      year: 2024.01--2024.10
 email: ""
 superuser: true
 ---
