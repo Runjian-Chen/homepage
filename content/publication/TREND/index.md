@@ -17,7 +17,7 @@ tags:
   - Autonomous Driving
 projects: []
 slides: ""
-url_pdf: "TREND_arxiv_2024_12_04.pdf"
+url_pdf: ""
 publication_types:
   - "3"
 image:

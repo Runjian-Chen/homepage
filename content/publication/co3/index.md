@@ -38,7 +38,7 @@ tags:
   - Autonomous Driving
 projects: []
 slides: ""
-url_pdf: "example.pdf"
+url_pdf: ""
 publication_types:
   - "3"
 image:
