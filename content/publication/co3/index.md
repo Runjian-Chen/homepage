@@ -38,7 +38,7 @@ tags:
   - Autonomous Driving
 projects: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2206.04028"
 publication_types:
   - "3"
 image:
