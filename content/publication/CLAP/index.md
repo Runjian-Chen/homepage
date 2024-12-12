@@ -1,38 +1,15 @@
 ---
-title: "COˆ3: Cooperative Unsupervised 3D Representation Learning for Autonomous
-  Driving"
+title: "CLAP: Unsupervised 3D Representation Learning for Fusion 3D Perception via Curvature Sampling and Prototype Learning"
 authors:
   - Runjian Chen
-  - Yao Mu
-  - Runsen Xu
+  - Hang Zhang
+  - Avinash Ravichandran
   - Wenqi Shao
-  - Chenhan Jiang
-  - Hang Xu
-  - Zhenguo Li
+  - Alex Wong
   - Ping Luo
 author_notes: []
 publication_short: ""
-abstract: Unsupervised contrastive learning for indoor-scene point clouds has
-  achieved great successes. However, unsupervised learning point clouds in
-  outdoor scenes remains challenging because previous methods need to
-  reconstruct the whole scene and capture partial views for the contrastive
-  objective. This is infeasible in outdoor scenes with moving objects,
-  obstacles, and sensors. In this paper, we propose CO^3, namely Cooperative
-  Contrastive Learning and Contextual Shape Prediction, to learn 3D
-  representation for outdoor-scene point clouds in an unsupervised manner. CO^3
-  has several merits compared to existing methods. (1) It utilizes LiDAR point
-  clouds from vehicle-side and infrastructure-side to build views that differ
-  enough but meanwhile maintain common semantic information for contrastive
-  learning, which are more appropriate than views built by previous methods. (2)
-  Alongside the contrastive objective, shape context prediction is proposed as
-  pre-training goal and brings more task-relevant information for unsupervised
-  3D point cloud representation learning, which are beneficial when transferring
-  the learned representation to downstream detection tasks. (3) As compared to
-  previous methods, representation learned by CO^3 is able to be transferred to
-  different outdoor scene dataset collected by different type of LiDAR sensors.
-  (4) CO^3 improves current state-of-the-art methods on both Once and KITTI
-  datasets by up to 2.58 mAP. Codes and models will be released. We believe CO^3
-  will facilitate understanding LiDAR point clouds in outdoor scene.
+abstract: Unsupervised 3D representation learning via masked-and-reconstruction with differentiable rendering is promising to reduce the labeling burden for fusion 3D perception. However, previous literature conduct pre-training for different modalities separately because of the hight GPU memory consumption. Consequently, the interaction between the two modalities (images and point clouds) is neglected during pre-training. In this paper, we explore joint unsupervised pre-training for fusion 3D perception via differentiable rendering and propose CLAP, short for Curvature sampLing and swApping Prototype assignment prediction. The contributions are three-fold. 1) To overcome the GPU memory consumption problem, we propose Curvature Sampling to sample the more informative points/pixels for pre-training. 2) We propose to use learnable prototypes to represent parts of the scenes in a common feature space and bring the idea of swapping prototype assignment prediction to learn the interaction between the two modalities. 3) To further optimize learnable prototypes, we propose an Expectation-Maximization training scheme to maximize the similarity between embeddings and prototypes, followed by a Gram Matrix Regularization Loss to avoid collapse. Experiment results on NuScenes show that CLAP achieves 300\% more performance gain as compared to previous SOTA 3D pre-training method via differentiable rendering.
 tags:
   - Unsupervised Representation Learning
   - Autonomous Driving
@@ -53,9 +30,9 @@ url_source: ""
 url_video: ""
 publication: ""
 featured: true
-date: 2022-06-19T14:57:51.559Z
+date: 2024-12-12T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2024-12-12T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
