@@ -1,6 +1,6 @@
 ---
 widget: experience
-widget_id: "2"
+widget_id: Experience
 headless: true
 weight: 40
 title: Experience
