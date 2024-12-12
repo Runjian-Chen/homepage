@@ -1,5 +1,5 @@
 ---
-title: "TREND: Unsupervised 3D Representation Learning via Temporal Forecasting for LiDAR Perception“
+title: "TREND: Unsupervised 3D Representation Learning via Temporal Forecasting for LiDAR Perception"
 authors:
   - Runjian Chen
   - Hyoungseob Park
