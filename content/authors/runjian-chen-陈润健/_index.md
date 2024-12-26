@@ -12,7 +12,7 @@ social:
       header: false
     icon_pack: fas
     icon: envelope
-    link: mailto:rjchen@connect.hku.hk
+    link: mailto:rjchen@cs.hku.hk
   - display:
       header: true
     icon_pack: ai
