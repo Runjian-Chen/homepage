@@ -11,7 +11,7 @@ authors:
   - Zhenguo Li
   - Ping Luo
 author_notes: []
-publication: "The International Conference on Learning Representations, ICLR 2023"
+publication: The International Conference on Learning Representations, ICLR 2023
 abstract: Unsupervised contrastive learning for indoor-scene point clouds has
   achieved great successes. However, unsupervised learning point clouds in
   outdoor scenes remains challenging because previous methods need to
