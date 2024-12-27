@@ -51,7 +51,6 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: ""
 featured: true
 date: 2022-06-19T14:57:51.559Z
 url_slides: ""
