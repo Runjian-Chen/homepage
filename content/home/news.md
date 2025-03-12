@@ -26,7 +26,7 @@ design:
 ---
 * [<font color=Red>Top</font>] I am actively looking for Post-Doc / Research Scientist position starting from early 2026 / late 2025. Please reach out if there is a good match.
 * [<font color=Red>Top</font>] We are looking for self-motivated students to collaborate on unsupervised 3D scene understanding for autonomous driving and embodied AI. Drop me an email if you are interested.
-* 2025-03-10: Our work JiSAM for simulation and real point clouds joint training is accepted in CVPR 2025. Stay tuned for the paper and code.
+* 2025-03-10: Our work JiSAM for simulation and real point clouds joint training is accepted in CVPR 2025. Paper is available [<font color=Coral>here</font>](https://arxiv.org/abs/2503.08422). Stay tuned for the code.
 * 2024-05-01: 3 papers accepted by ICML 2024. [MMT-Bench](https://arxiv.org/pdf/2404.16006) from [Wenqi](https://wqshao126.github.io/), [Implicit Prompt](https://arxiv.org/abs/2403.02118) from Yue and [RoboCodeX](https://arxiv.org/pdf/2402.16117) from [Yao](https://yaomarkmu.github.io). Congrats!
 * 2024-03-18: Our work CurriculumLoc on place recognition for remote sensing is accepted in TGRS. Congrats on [Boni](https://boni-hu.github.io/)! [[<font color=Coral>paper</font>](https://arxiv.org/pdf/2311.11604.pdf)] [[<font color=Coral>code</font>](https://github.com/npupilab/CurriculumLoc)]
 * 2024-01-07: Join [Yale Vision Laboratory](https://vision.cs.yale.edu/) as a visiting student.
