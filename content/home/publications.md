@@ -4,7 +4,7 @@ widget_id: Recent Publications
 weight: 90
 title: Publications
 subtitle: ""
-active: true
+active: False
 content:
   filters:
     folders:
