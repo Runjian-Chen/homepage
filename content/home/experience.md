@@ -6,7 +6,7 @@ weight: 140
 title: Experience
 subtitle: null
 active: true
-date_format: Jan 2006
+date_format: 2006
 experience:
 
   - title: Research Intern
