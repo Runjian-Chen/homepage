@@ -13,7 +13,7 @@ experience:
     company: Nvidia, Spatial Intelligence Lab
     company_url: "https://research.nvidia.com/labs/toronto-ai/"
     location: California
-    date_start: 2025
+    date_start: 2025-08
     
   - title: Research Intern
     company: Cruise
