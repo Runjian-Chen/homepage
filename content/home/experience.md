@@ -13,13 +13,13 @@ experience:
     company: Nvidia, Spatial Intelligence Lab
     company_url: "https://research.nvidia.com/labs/toronto-ai/"
     location: California
-    date_start: 2025-08
+    date_start: 2025-08-01
     
   - title: Research Cooperation
     company: Stanford Geometry Group
     company_url: "https://geometry.stanford.edu/"
     location: California
-    date_start: 2024-12
+    date_start: 2024-12-01
     
   - title: Research Intern
     company: Cruise
