@@ -38,6 +38,6 @@ design:
 * 2022-01-29: Our work CycleMLP is accepted in ICLR 2022 as oral presentation ([<font color=red>](https://arxiv.org/pdf/2009.07061.pdf)1.6%[</font>](https://arxiv.org/pdf/2009.07061.pdf) acceptance rate). Congrats on [Shoufa](https://www.shoufachen.com)! [[<font color=Coral>paper</font>](https://arxiv.org/pdf/2107.10224.pdf)] [[<font color=Coral>code</font>](https://github.com/ShoufaChen/CycleMLP)]
 * 2021-07-30: Y S and Christabel Lung Postgraduate Scholarship offer.
 * 2021-04-12: Hong Kong PhD Fellowship offer.
-* 2021-02-18: RaLL is accepted in IEEE Transactions on Intelligent Transportation Systems. (IF=6.3) [[<font color=Coral>paper</font>](https://arxiv.org/pdf/2009.07061.pdf)]
+* 2021-02-18: RaLL is accepted in IEEE Transactions on Intelligent Transportation Systems. [[<font color=Coral>paper</font>](https://arxiv.org/pdf/2009.07061.pdf)]
 * 2021-02-09: HKU Presidential Scholarship offer.
 * 2021-02-04: AdaM MCL is accepted in RA-L and will be presented at ICRA 2021. [[<font color=Coral>paper</font>](https://arxiv.org/pdf/2009.00211.pdf)] [[<font color=Coral>code</font>](https://github.com/Runjian-Chen/AdaM_MCL)]
