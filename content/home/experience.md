@@ -9,7 +9,7 @@ active: true
 date_format: Jan 2006
 experience:
 
-  - title: Research Cooperation
+  - title: Research Intern
     company: Nvidia, Spatial Intelligence Lab
     company_url: "https://research.nvidia.com/labs/toronto-ai/"
     location: California
