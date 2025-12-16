@@ -15,12 +15,6 @@ experience:
     location: California
     date_start: 2025-05-19
     
-<!--  - title: Research Cooperation
-    company: Stanford Geometry Group
-    company_url: "https://geometry.stanford.edu/"
-    location: California
-    date_start: 2024-12-01-->
-    
   - title: Research Intern
     company: Cruise
     company_url: "https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle)"
