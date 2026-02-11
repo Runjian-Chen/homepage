@@ -9,13 +9,13 @@ active: true
 date_format: Jan 2006
 experience:
 
-  - title: Research Intern
+  - title: Research Scientist Intern
     company: Nvidia, Spatial Intelligence Lab
     company_url: "https://research.nvidia.com/labs/toronto-ai/"
     location: California
     date_start: 2025-05-19
     
-  - title: Research Intern
+  - title: Research Scientist Intern
     company: Cruise
     company_url: "https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle)"
     location: California
