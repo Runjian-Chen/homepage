@@ -25,8 +25,8 @@ design:
   columns: "2"
 ---
 <!--* [<font color=Red>Top</font>] I am actively looking for Post-Doc / Research Scientist position starting from Mid 2026. Please reach out if there is a good match.* [<font color=Red>Top</font>] We are looking for self-motivated students to collaborate on unsupervised 3D scene understanding for autonomous driving and embodied AI. Drop me an email if you are interested.-->
-* 2026-01-26: Our work CLAP on LiDAR-Camera joint pre-training is accepted in ICLR 2026. Check out the [[<font color=Coral>paper</font>](https://arxiv.org/abs/2412.03059)]. [<font color=Coral>Code</font>](https://github.com/Runjian-Chen/CLAP) will be available later.
-* 2025-09-18: Our work TREND on forecasting pre-training for LiDAR perception is accepted in Neurips 2025 and selected as spotlight. Check out the [[<font color=Coral>paper</font>](https://arxiv.org/abs/2412.03054)]. [<font color=Coral>Code</font>](https://github.com/Runjian-Chen/TREND) will be available later.
+* 2026-01-26: Our work CLAP on LiDAR-Camera joint pre-training is accepted in ICLR 2026. Check out the [<font color=Coral>paper</font>](https://arxiv.org/abs/2412.03059). [<font color=Coral>Code</font>](https://github.com/Runjian-Chen/CLAP) will be available later.
+* 2025-09-18: Our work TREND on forecasting pre-training for LiDAR perception is accepted in Neurips 2025 and selected as spotlight. Check out the [<font color=Coral>paper</font>](https://arxiv.org/abs/2412.03054). [<font color=Coral>Code</font>](https://github.com/Runjian-Chen/TREND) will be available later.
 * 2025-07-01: Our work [SPOT](https://arxiv.org/pdf/2309.10527) is accepted in TPAMI. Congrats on Xiangchao!
 * 2025-06-25: Our work [TOP](https://arxiv.org/pdf/2503.07167?) is accepted in ICCV 2025. Congrats on Ziliang! 
 * 2025-06-12: Our work Cosmos-Drive-Dreams is released. Check out the [<font color=Coral>project page</font>](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/). 
